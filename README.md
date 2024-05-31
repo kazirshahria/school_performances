@@ -1,4 +1,4 @@
-# Evaluate Test Results in NYC
+# School Performance Dashboard
 
 ## Overview
 
@@ -13,4 +13,7 @@ Program a data pipeline using the Socrata API to visualize test results for NYC 
 
 An interactive dashboard that can be utilized to examine performance of schools in NYC. The dashboard will allow city officials to determine which schools to assist and understand the performance of schools in each borough.
 
-## Questions
+### Demographic
+- Show the proportion of student types in New York City using a bar chart.
+- Show the proportion of student types in New York City by boroughs and using the percent of total.
+
